@@ -1,0 +1,2 @@
+# Klasifikasi_Citra_Pola_Tangan_Batu_Gunting_Kertas_Menggunakan_CNN
+Pengolahan Citra Menggunakan CNN
